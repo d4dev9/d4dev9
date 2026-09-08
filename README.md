@@ -5,7 +5,7 @@
 ### Software Developer · Web Applications
 
 Building practical web applications and digital solutions through
-modern technologies, continuous learning, and hands-on projects.
+modern technologies
 
 <br>
 
