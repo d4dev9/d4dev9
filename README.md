@@ -2,9 +2,6 @@
   <img src="./assets/d4dev-header.svg" width="100%" alt="D4DEV — Software Developer">
 </div>
 
-Building practical web applications and digital solutions through
-modern technologies
-
 <br>
 
 <div align="center">
