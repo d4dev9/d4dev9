@@ -132,46 +132,7 @@
       <tspan class="text">Web Applications</tspan>
     </text>
 
-    <text x="34" y="181" font-size="14.5" class="dim fade a3">
-      Building practical web applications through hands-on projects.
-    </text>
-
-    <text x="32" y="220" font-size="15" class="fade a4">
-      <tspan class="prompt">d4dev@dev</tspan>
-      <tspan class="dim">:</tspan>
-      <tspan class="cyan">~</tspan>
-      <tspan class="dim">$</tspan>
-      <tspan class="text"> stack --core</tspan>
-    </text>
-
-    <text x="34" y="249" font-size="15.5" class="fade a5">
-      <tspan class="green">Java</tspan>
-      <tspan class="dim"> · </tspan>
-      <tspan class="blue">Spring Boot</tspan>
-      <tspan class="dim"> · </tspan>
-      <tspan class="cyan">React</tspan>
-      <tspan class="dim"> · </tspan>
-      <tspan class="purple">JavaScript</tspan>
-      <tspan class="dim"> · </tspan>
-      <tspan class="green">PostgreSQL</tspan>
-    </text>
-
-    <text x="32" y="286" font-size="15" class="fade a5">
-      <tspan class="prompt">d4dev@dev</tspan>
-      <tspan class="dim">:</tspan>
-      <tspan class="cyan">~</tspan>
-      <tspan class="dim">$</tspan>
-      <tspan class="text"> status --learning</tspan>
-    </text>
-
-    <text x="34" y="315" font-size="15.5" class="fade a6">
-      <tspan class="purple">Python</tspan>
-      <tspan class="dim"> · </tspan>
-      <tspan class="cyan">Vue</tspan>
-      <tspan class="dim"> · </tspan>
-      <tspan class="green">AI / Automation</tspan>
-    </text>
-
+    
     <text x="32" y="343" font-size="14" class="fade a6">
       <tspan class="prompt">d4dev@dev</tspan>
       <tspan class="dim">:</tspan>
