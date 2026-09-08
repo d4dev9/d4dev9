@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-label="D4DEV — Software Developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="D4DEV — Information Systems Developer">
   <style>
     .mono {
       font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", "Fira Code", Consolas, monospace;
@@ -40,29 +40,26 @@
       font-weight: 700;
     }
 
-    .green {
-      fill: #3fb950;
-    }
-
-    .blue {
-      fill: #58a6ff;
-    }
-
-    .purple {
-      fill: #bc8cff;
-    }
-
     .fade {
       opacity: 0;
       animation: appear .55s ease forwards;
     }
 
-    .a1 { animation-delay: .15s; }
-    .a2 { animation-delay: .40s; }
-    .a3 { animation-delay: .65s; }
-    .a4 { animation-delay: .90s; }
-    .a5 { animation-delay: 1.15s; }
-    .a6 { animation-delay: 1.40s; }
+    .a1 {
+      animation-delay: .15s;
+    }
+
+    .a2 {
+      animation-delay: .45s;
+    }
+
+    .a3 {
+      animation-delay: .75s;
+    }
+
+    .a4 {
+      animation-delay: 1.05s;
+    }
 
     .cursor {
       fill: #39d353;
@@ -97,7 +94,7 @@
     }
   </style>
 
-  <rect class="window" x="1.5" y="1.5" width="897" height="357" rx="10"/>
+  <rect class="window" x="1.5" y="1.5" width="897" height="297" rx="10"/>
 
   <rect class="bar" x="1.5" y="1.5" width="897" height="42" rx="10"/>
   <rect class="bar" x="1.5" y="32" width="897" height="11"/>
@@ -114,7 +111,7 @@
 
   <g class="mono">
 
-    <text x="32" y="78" font-size="15" class="fade a1">
+    <text x="32" y="82" font-size="15" class="fade a1">
       <tspan class="prompt">d4dev@dev</tspan>
       <tspan class="dim">:</tspan>
       <tspan class="cyan">~</tspan>
@@ -122,25 +119,26 @@
       <tspan class="text"> whoami</tspan>
     </text>
 
-    <text x="32" y="125" font-size="39" class="name fade a2">
+    <text x="32" y="135" font-size="42" class="name fade a2">
       D4DEV
     </text>
 
-    <text x="34" y="153" font-size="17" class="fade a3">
-      <tspan class="cyan">Software Developer</tspan>
-      <tspan class="dim"> · </tspan>
-      <tspan class="text">Web Applications</tspan>
+    <text x="34" y="170" font-size="19" class="cyan fade a3">
+      Information Systems Developer
     </text>
 
-    
-    <text x="32" y="343" font-size="14" class="fade a6">
+    <text x="34" y="205" font-size="15" class="dim fade a3">
+      Building practical web applications.
+    </text>
+
+    <text x="32" y="253" font-size="15" class="fade a4">
       <tspan class="prompt">d4dev@dev</tspan>
       <tspan class="dim">:</tspan>
       <tspan class="cyan">~</tspan>
       <tspan class="dim">$</tspan>
     </text>
 
-    <rect class="cursor fade a6" x="171" y="330" width="8" height="15" rx="1"/>
+    <rect class="cursor fade a4" x="171" y="240" width="8" height="16" rx="1"/>
 
   </g>
 </svg>
