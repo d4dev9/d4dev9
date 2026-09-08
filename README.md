@@ -1,8 +1,6 @@
 <div align="center">
-
-# D4DEV
-
-### Software Developer · Web Applications
+  <img src="./assets/d4dev-header.svg" width="100%" alt="D4DEV — Software Developer">
+</div>
 
 Building practical web applications and digital solutions through
 modern technologies
