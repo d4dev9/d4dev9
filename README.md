@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="DAVID — Full-stack developer" width="100%">
+  <img src="./assets/Banner.svg" alt="DAVID — Full-stack developer" width="100%">
 </p>
 
 ### Skills
