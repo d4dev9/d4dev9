@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="./assets/Banner.svg" alt="DAVID — Full-stack developer" width="100%">
+  <img src="./assets/banner.svg" alt="DAVID — Full-stack developer" width="100%">
 </p>
 
-<h4 align="center">Frontend</h4>
-<p align="center">
+### Skills
+
+<p>
   <img src="./assets/skills/html.svg" width="52" alt="HTML5" title="HTML5">
   <img src="./assets/skills/css.svg" width="52" alt="CSS3" title="CSS3">
   <img src="./assets/skills/javascript.svg" width="52" alt="JavaScript" title="JavaScript">
@@ -12,23 +13,11 @@
   <img src="./assets/skills/nextjs.svg" width="52" alt="Next.js" title="Next.js">
   <img src="./assets/skills/vite.svg" width="52" alt="Vite" title="Vite">
   <img src="./assets/skills/tailwind.svg" width="52" alt="Tailwind CSS" title="Tailwind CSS">
-</p>
-
-<h4 align="center">Backend</h4>
-<p align="center">
   <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
   <img src="./assets/skills/spring.svg" width="52" alt="Spring Boot" title="Spring Boot">
   <img src="./assets/skills/nodejs.svg" width="52" alt="Node.js" title="Node.js">
-</p>
-
-<h4 align="center">Datos</h4>
-<p align="center">
   <img src="./assets/skills/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
   <img src="./assets/skills/mysql.svg" width="52" alt="MySQL" title="MySQL">
-</p>
-
-<h4 align="center">DevOps y herramientas</h4>
-<p align="center">
   <img src="./assets/skills/docker.svg" width="52" alt="Docker" title="Docker">
   <img src="./assets/skills/nginx.svg" width="52" alt="Nginx" title="Nginx">
   <img src="./assets/skills/git.svg" width="52" alt="Git" title="Git">
