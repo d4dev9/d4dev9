@@ -2,6 +2,14 @@
   <img src="./assets/Banner.svg" alt="DAVID — Full-stack developer" width="100%">
 </p>
 
+###
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 ### Skills
 
 <p>
@@ -25,7 +33,7 @@
   <img src="./assets/skills/vercel.svg" width="52" alt="Vercel" title="Vercel">
 </p>
 
-###
+### Activity
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d4dev9/d4dev9/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
