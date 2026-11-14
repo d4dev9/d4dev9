@@ -1,9 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" role="img" aria-label="DAVID — Full-stack developer">
   <style>
     .t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
-    .cur{animation:bl 1.1s steps(1) infinite}
-    @keyframes bl{50%{opacity:0}}
-    @media (prefers-reduced-motion:reduce){.cur{animation:none}}
   </style>
   <rect x="1" y="1" width="898" height="408" rx="12" fill="#0a0a0a" stroke="#1f1f1f" stroke-width="2"/>
   <g fill="#5a5a5a">
@@ -33,6 +30,6 @@
     <rect x="600" y="130" width="20" height="20"/><rect x="660" y="130" width="20" height="20"/>
     <rect x="600" y="150" width="20" height="20"/><rect x="620" y="150" width="20" height="20"/><rect x="640" y="150" width="20" height="20"/>
   </g>
-  <text class="t" x="450" y="250" font-size="18" fill="#eeeeee" text-anchor="middle">Full-stack developer<tspan class="cur">_</tspan></text>
+  <text class="t" x="450" y="250" font-size="18" fill="#eeeeee" text-anchor="middle">Full-stack developer</text>
   <text class="t" x="26" y="388" font-size="13" fill="#808080">github.com/d4dev9</text>
 </svg>
