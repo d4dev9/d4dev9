@@ -1,51 +1,35 @@
-<p align="center">
-  <img src="./assets/Banner.svg" alt="DAVID — Full-stack developer" width="100%">
-</p>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-### Frontend
-
-<p>
-  <img src="./assets/skills/html.svg" width="52" alt="HTML5" title="HTML5">
-  <img src="./assets/skills/css.svg" width="52" alt="CSS3" title="CSS3">
-  <img src="./assets/skills/javascript.svg" width="52" alt="JavaScript" title="JavaScript">
-  <img src="./assets/skills/typescript.svg" width="52" alt="TypeScript" title="TypeScript">
-  <img src="./assets/skills/react.svg" width="52" alt="React" title="React">
-  <img src="./assets/skills/nextjs.svg" width="52" alt="Next.js" title="Next.js">
-  <img src="./assets/skills/astro.svg" width="52" alt="Astro" title="Astro">
-  <img src="./assets/skills/vite.svg" width="52" alt="Vite" title="Vite">
-  <img src="./assets/skills/tailwind.svg" width="52" alt="Tailwind CSS" title="Tailwind CSS">
-</p>
-
-###
-
-### Backend
-
-<p>
-  <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
-  <img src="./assets/skills/spring.svg" width="52" alt="Spring Boot" title="Spring Boot">
-  <img src="./assets/skills/laravel.svg" width="52" alt="Laravel" title="Laravel">
-  <img src="./assets/skills/nodejs.svg" width="52" alt="Node.js" title="Node.js">
-  <img src="./assets/skills/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
-  <img src="./assets/skills/mysql.svg" width="52" alt="MySQL" title="MySQL">
-</p>
-
-###
-
-### Tools & DevOps
-
-<p>
-  <img src="./assets/skills/docker.svg" width="52" alt="Docker" title="Docker">
-  <img src="./assets/skills/git.svg" width="52" alt="Git" title="Git">
-  <img src="./assets/skills/github.svg" width="52" alt="GitHub" title="GitHub">
-  <img src="./assets/skills/vercel.svg" width="52" alt="Vercel" title="Vercel">
-</p>
-
-###
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" role="img" aria-label="DAVID — Full-stack developer">
+  <style>
+    .t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  </style>
+  <rect x="1" y="1" width="898" height="408" rx="12" fill="#0a0a0a" stroke="#1f1f1f" stroke-width="2"/>
+  <g fill="#5a5a5a">
+    <rect x="220" y="70" width="20" height="20"/><rect x="240" y="70" width="20" height="20"/><rect x="260" y="70" width="20" height="20"/>
+    <rect x="220" y="90" width="20" height="20"/><rect x="280" y="90" width="20" height="20"/>
+    <rect x="220" y="110" width="20" height="20"/><rect x="280" y="110" width="20" height="20"/>
+    <rect x="220" y="130" width="20" height="20"/><rect x="280" y="130" width="20" height="20"/>
+    <rect x="220" y="150" width="20" height="20"/><rect x="240" y="150" width="20" height="20"/><rect x="260" y="150" width="20" height="20"/>
+    <rect x="340" y="70" width="20" height="20"/><rect x="360" y="70" width="20" height="20"/>
+    <rect x="320" y="90" width="20" height="20"/><rect x="380" y="90" width="20" height="20"/>
+    <rect x="320" y="110" width="20" height="20"/><rect x="340" y="110" width="20" height="20"/><rect x="360" y="110" width="20" height="20"/><rect x="380" y="110" width="20" height="20"/>
+    <rect x="320" y="130" width="20" height="20"/><rect x="380" y="130" width="20" height="20"/>
+    <rect x="320" y="150" width="20" height="20"/><rect x="380" y="150" width="20" height="20"/>
+    <rect x="420" y="70" width="20" height="20"/><rect x="480" y="70" width="20" height="20"/>
+    <rect x="420" y="90" width="20" height="20"/><rect x="480" y="90" width="20" height="20"/>
+    <rect x="420" y="110" width="20" height="20"/><rect x="480" y="110" width="20" height="20"/>
+    <rect x="420" y="130" width="20" height="20"/><rect x="480" y="130" width="20" height="20"/>
+    <rect x="440" y="150" width="20" height="20"/><rect x="460" y="150" width="20" height="20"/>
+  </g>
+  <g fill="#f1ecec">
+    <rect x="520" y="70" width="20" height="20"/><rect x="540" y="70" width="20" height="20"/><rect x="560" y="70" width="20" height="20"/>
+    <rect x="540" y="90" width="20" height="20"/><rect x="540" y="110" width="20" height="20"/><rect x="540" y="130" width="20" height="20"/>
+    <rect x="520" y="150" width="20" height="20"/><rect x="540" y="150" width="20" height="20"/><rect x="560" y="150" width="20" height="20"/>
+    <rect x="600" y="70" width="20" height="20"/><rect x="620" y="70" width="20" height="20"/><rect x="640" y="70" width="20" height="20"/>
+    <rect x="600" y="90" width="20" height="20"/><rect x="660" y="90" width="20" height="20"/>
+    <rect x="600" y="110" width="20" height="20"/><rect x="660" y="110" width="20" height="20"/>
+    <rect x="600" y="130" width="20" height="20"/><rect x="660" y="130" width="20" height="20"/>
+    <rect x="600" y="150" width="20" height="20"/><rect x="620" y="150" width="20" height="20"/><rect x="640" y="150" width="20" height="20"/>
+  </g>
+  <text class="t" x="450" y="250" font-size="18" fill="#eeeeee" text-anchor="middle">Full-stack developer</text>
+  <text class="t" x="26" y="388" font-size="13" fill="#808080">github.com/d4dev9</text>
+</svg>
