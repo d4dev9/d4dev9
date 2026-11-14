@@ -43,3 +43,7 @@
 </p>
 
 ###
+
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Lenguajes más usados" width="100%">
+</p>
