@@ -31,7 +31,7 @@
     <rect x="600" y="150" width="20" height="20"/><rect x="620" y="150" width="20" height="20"/><rect x="640" y="150" width="20" height="20"/>
   </g>
   <text class="t" x="450" y="250" font-size="18" fill="#eeeeee" text-anchor="middle">Full-stack developer</text>
-  <text class="t" x="220" y="300" font-size="15" fill="#808080">$ sudo make coffee</text>
-  <text class="t" x="220" y="325" font-size="15" fill="#f1ecec">permission denied: nice try</text>
+  <text class="t" x="26" y="300" font-size="15" fill="#808080">$ sudo make coffee</text>
+  <text class="t" x="26" y="325" font-size="15" fill="#f1ecec">permission denied: nice try</text>
   <text class="t" x="26" y="388" font-size="13" fill="#808080">github.com/d4dev9</text>
 </svg>
