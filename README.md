@@ -1,4 +1,3 @@
-###
 <p align="center">
   <img src="./assets/Banner.svg" alt="DAVID — Full-stack developer" width="100%">
 </p>
@@ -11,7 +10,7 @@
 
 ###
 
-### Skills
+### Frontend
 
 <p>
   <img src="./assets/skills/html.svg" width="52" alt="HTML5" title="HTML5">
@@ -22,11 +21,25 @@
   <img src="./assets/skills/nextjs.svg" width="52" alt="Next.js" title="Next.js">
   <img src="./assets/skills/vite.svg" width="52" alt="Vite" title="Vite">
   <img src="./assets/skills/tailwind.svg" width="52" alt="Tailwind CSS" title="Tailwind CSS">
+</p>
+
+###
+
+### Backend
+
+<p>
   <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
   <img src="./assets/skills/spring.svg" width="52" alt="Spring Boot" title="Spring Boot">
   <img src="./assets/skills/nodejs.svg" width="52" alt="Node.js" title="Node.js">
   <img src="./assets/skills/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
   <img src="./assets/skills/mysql.svg" width="52" alt="MySQL" title="MySQL">
+</p>
+
+###
+
+### Tools & DevOps
+
+<p>
   <img src="./assets/skills/docker.svg" width="52" alt="Docker" title="Docker">
   <img src="./assets/skills/nginx.svg" width="52" alt="Nginx" title="Nginx">
   <img src="./assets/skills/git.svg" width="52" alt="Git" title="Git">
