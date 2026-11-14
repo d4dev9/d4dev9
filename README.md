@@ -8,15 +8,45 @@
 
 <div align="center">
 
+<a href="https://TU-PORTAFOLIO.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:TU-CORREO@ejemplo.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 <a href="https://ko-fi.com/dxvid9" target="_blank">
   <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee at ko-fi.com" />
 </a>
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=d4dev9)
+<div align="center">
 
-### Frontend
+<img src="https://komarev.com/ghpvc/?username=d4dev9" alt="Profile views">
+
+</div>
+
+###
+
+<h3 align="center">Main Stack</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
+</div>
+
+###
+
+<h3 align="center">Frontend</h3>
 
 <p>
   <img src="./assets/skills/html.svg" width="52" alt="HTML5" title="HTML5">
@@ -32,7 +62,7 @@
 
 ###
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <p>
   <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
@@ -45,7 +75,7 @@
 
 ###
 
-### Tools & DevOps
+<h3 align="center">Tools & DevOps</h3>
 
 <p>
   <img src="./assets/skills/docker.svg" width="52" alt="Docker" title="Docker">
