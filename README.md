@@ -19,7 +19,7 @@
   <img src="./assets/skills/typescript.svg" width="52" alt="TypeScript" title="TypeScript">
   <img src="./assets/skills/react.svg" width="52" alt="React" title="React">
   <img src="./assets/skills/nextjs.svg" width="52" alt="Next.js" title="Next.js">
-  <img src="./assets/skills/astro.svg" width="52" alt="Astro" title="Astro">
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" width="52" alt="Astro" title="Astro">
   <img src="./assets/skills/vite.svg" width="52" alt="Vite" title="Vite">
   <img src="./assets/skills/tailwind.svg" width="52" alt="Tailwind CSS" title="Tailwind CSS">
 </p>
@@ -31,8 +31,7 @@
 <p>
   <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
   <img src="./assets/skills/spring.svg" width="52" alt="Spring Boot" title="Spring Boot">
-  <img src="./assets/skills/php.svg" width="52" alt="PHP" title="PHP">
-  <img src="./assets/skills/laravel.svg" width="52" alt="Laravel" title="Laravel">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="52" alt="Laravel" title="Laravel">
   <img src="./assets/skills/nodejs.svg" width="52" alt="Node.js" title="Node.js">
   <img src="./assets/skills/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
   <img src="./assets/skills/mysql.svg" width="52" alt="MySQL" title="MySQL">
