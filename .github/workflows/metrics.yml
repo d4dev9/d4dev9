@@ -24,3 +24,8 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
           filename: metrics.languages.svg
+
+          plugin_languages_analysis_timeout: 900
+          plugin_languages_categories: programming markup
+          plugin_languages_ignored: html css
+          plugin_languages_skipped: ""
