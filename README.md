@@ -6,6 +6,14 @@
 
 <!--<a href="https://u8views.com/github/d4dev9"><img src="https://u8views.com/api/v1/github/profiles/97483748/views/day-week-month-total-count.svg"></a>-->
 
+<div align="center">
+
+<a href="https://ko-fi.com/dxvid9" target="_blank">
+  <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee at ko-fi.com" />
+</a>
+
+</div>
+
 ![](https://komarev.com/ghpvc/?username=d4dev9)
 
 ### Frontend
