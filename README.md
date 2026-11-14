@@ -4,6 +4,8 @@
 
 ###
 
+<a href="https://u8views.com/github/d4dev9"><img src="https://u8views.com/api/v1/github/profiles/97483748/views/day-week-month-total-count.svg"></a>
+
 ### Frontend
 
 <p>
