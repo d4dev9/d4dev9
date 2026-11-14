@@ -12,19 +12,9 @@
   <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee at ko-fi.com" />
 </a>
 
-</div>
+<br>
+<br>
 
-<div align="center">
-
-<a href="https://TU-PORTAFOLIO.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:TU-CORREO@ejemplo.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
 <img src="https://komarev.com/ghpvc/?username=d4dev9" alt="Profile views">
 
 </div>
