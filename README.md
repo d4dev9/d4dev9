@@ -4,7 +4,7 @@
 
 ###
 
-☕ **FullStack Software Developer & AI-Driven Engineering**
+![Coffee coffee Coffee emoji via emojis.com](https://imgproxy.attic.sh/insecure/f:png/h:128/w:128/plain/https://attic.sh/ghpw1t2qgcjwfvddsdtrsg5mc3kw) **FullStack Software Developer & AI-Driven Engineering**
 <!--<a href="https://u8views.com/github/d4dev9"><img src="https://u8views.com/api/v1/github/profiles/97483748/views/day-week-month-total-count.svg"></a>-->
 
 <div align="center">
