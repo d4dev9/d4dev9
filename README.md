@@ -4,7 +4,14 @@
 
 ###
 
-![Coffee coffee Coffee emoji via emojis.com](https://imgproxy.attic.sh/insecure/f:png/h:128/w:128/plain/https://attic.sh/ghpw1t2qgcjwfvddsdtrsg5mc3kw) **FullStack Software Developer & AI-Driven Engineering**
+<a href="https://www.emojis.com/emoji/coffee-coffee-coffee-QWfSFOs4OmA" target="_blank">
+  <img 
+    src="https://imgproxy.attic.sh/insecure/f:png/h:512/w:512/plain/https://attic.sh/ghpw1t2qgcjwfvddsdtrsg5mc3kw" 
+    alt="Coffee coffee Coffee emoji" 
+    width="128" 
+    height="128"
+  />
+</a> **FullStack Software Developer & AI-Driven Engineering**
 <!--<a href="https://u8views.com/github/d4dev9"><img src="https://u8views.com/api/v1/github/profiles/97483748/views/day-week-month-total-count.svg"></a>-->
 
 <div align="center">
