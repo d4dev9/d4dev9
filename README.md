@@ -33,41 +33,40 @@
 <h3>Languages</h3>
 
 <p>
-  <img src="./assets/skills/typescript.svg" width="52" alt="TypeScript" title="TypeScript">
-  <img src="./assets/skills/javascript.svg" width="52" alt="JavaScript" title="JavaScript">
-  <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
-  <img src="./assets/skills/csharp.svg" width="52" alt="C#" title="C#">
-  <img src="./assets/skills/html.svg" width="52" alt="HTML5" title="HTML5">
-  <img src="./assets/skills/css.svg" width="52" alt="CSS3" title="CSS3">
-  <img src="./assets/skills/sql.svg" width="52" alt="SQL" title="SQL">
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="52" alt="TypeScript" title="TypeScript">
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="52" alt="JavaScript" title="JavaScript">
+  <img src="https://cdn.simpleicons.org/openjdk/ffffff" width="52" alt="Java" title="Java">
+  <img src="https://cdn.simpleicons.org/csharp/ffffff" width="52" alt="C#" title="C#">
+  <img src="https://cdn.simpleicons.org/html5/ffffff" width="52" alt="HTML5" title="HTML5">
+  <img src="https://cdn.simpleicons.org/css/ffffff" width="52" alt="CSS3" title="CSS3">
 </p>
 
 <h3>Frontend</h3>
 
 <p>
-  <img src="./assets/skills/react.svg" width="52" alt="React" title="React">
-  <img src="./assets/skills/nextjs.svg" width="52" alt="Next.js" title="Next.js">
-  <img src="./assets/skills/angular.svg" width="52" alt="Angular" title="Angular">
-  <img src="./assets/skills/tailwind.svg" width="52" alt="Tailwind CSS" title="Tailwind CSS">
-  <img src="./assets/skills/vite.svg" width="52" alt="Vite" title="Vite">
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="52" alt="React" title="React">
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="52" alt="Next.js" title="Next.js">
+  <img src="https://cdn.simpleicons.org/angular/ffffff" width="52" alt="Angular" title="Angular">
+  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="52" alt="Tailwind CSS" title="Tailwind CSS">
+  <img src="https://cdn.simpleicons.org/vite/ffffff" width="52" alt="Vite" title="Vite">
 </p>
 
 <h3>Backend</h3>
 
 <p>
-  <img src="./assets/skills/spring.svg" width="52" alt="Spring Boot" title="Spring Boot">
-  <img src="./assets/skills/dotnet.svg" width="52" alt=".NET" title=".NET">
-  <img src="./assets/skills/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
-  <img src="./assets/skills/mysql.svg" width="52" alt="MySQL" title="MySQL">
-  <img src="./assets/skills/sqlserver.svg" width="52" alt="SQL Server" title="SQL Server">
-  <img src="./assets/skills/prisma.svg" width="52" alt="Prisma" title="Prisma">
+  <img src="https://cdn.simpleicons.org/springboot/ffffff" width="52" alt="Spring Boot" title="Spring Boot">
+  <img src="https://cdn.simpleicons.org/dotnet/ffffff" width="52" alt=".NET" title=".NET">
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="52" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="52" alt="MySQL" title="MySQL">
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/ffffff" width="52" alt="SQL Server" title="SQL Server">
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" width="52" alt="Prisma" title="Prisma">
 </p>
 
 <h3>Development Tools</h3>
 
 <p>
-  <img src="./assets/skills/git.svg" width="52" alt="Git" title="Git">
-  <img src="./assets/skills/github.svg" width="52" alt="GitHub" title="GitHub">
-  <img src="./assets/skills/docker.svg" width="52" alt="Docker" title="Docker">
-  <img src="./assets/skills/vercel.svg" width="52" alt="Vercel" title="Vercel">
+  <img src="https://cdn.simpleicons.org/git/ffffff" width="52" alt="Git" title="Git">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="52" alt="GitHub" title="GitHub">
+  <img src="https://cdn.simpleicons.org/docker/ffffff" width="52" alt="Docker" title="Docker">
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="52" alt="Vercel" title="Vercel">
 </p>
