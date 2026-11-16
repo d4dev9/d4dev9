@@ -70,11 +70,3 @@
   <img src="./assets/skills/docker.svg" width="52" alt="Docker" title="Docker">
   <img src="./assets/skills/vercel.svg" width="52" alt="Vercel" title="Vercel">
 </p>
-<h3>Development Tools</h3>
-
-<p>
-  <img src="https://cdn.simpleicons.org/git/ffffff" width="52" alt="Git" title="Git">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="52" alt="GitHub" title="GitHub">
-  <img src="https://cdn.simpleicons.org/docker/ffffff" width="52" alt="Docker" title="Docker">
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="52" alt="Vercel" title="Vercel">
-</p>
