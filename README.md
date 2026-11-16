@@ -36,7 +36,7 @@
   <img src="./assets/skills/typescript.svg" width="52" alt="TypeScript" title="TypeScript">
   <img src="./assets/skills/javascript.svg" width="52" alt="JavaScript" title="JavaScript">
   <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" alt="CSHARP" title="C#"/>
+  <img src="./assets/skills/csharp.svg" width="52" alt="CSharp" title="C#">
   <img src="./assets/skills/html.svg" width="52" alt="HTML5" title="HTML5">
   <img src="./assets/skills/css.svg" width="52" alt="CSS3" title="CSS3">
 </p>
@@ -55,6 +55,7 @@
 
 <p>
   <img src="./assets/skills/spring.svg" width="52" alt="Spring Boot" title="Spring Boot">
+  <img src="./assets/skills/nodejs.svg" width="52" alt="Node.js" title="Node.js">
   <img src="./assets/skills/dotnet.svg" width="52" alt=".NET" title=".NET">
   <img src="./assets/skills/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
   <img src="./assets/skills/mysql.svg" width="52" alt="MySQL" title="MySQL">
