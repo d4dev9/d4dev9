@@ -36,7 +36,7 @@
   <img src="./assets/skills/typescript.svg" width="52" alt="TypeScript" title="TypeScript">
   <img src="./assets/skills/javascript.svg" width="52" alt="JavaScript" title="JavaScript">
   <img src="./assets/skills/java.svg" width="52" alt="Java" title="Java">
-  <img src="./assets/skills/csharp.svg" width="52" alt="C#" title="C#">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="./assets/skills/html.svg" width="52" alt="HTML5" title="HTML5">
   <img src="./assets/skills/css.svg" width="52" alt="CSS3" title="CSS3">
 </p>
