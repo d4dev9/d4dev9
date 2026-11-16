@@ -18,6 +18,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=d4dev9" alt="Profile views">
 
+![Repos](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d4dev9/d4dev9/main/badge.json&style=for-the-badge)
+
 </div>
 
 ###
