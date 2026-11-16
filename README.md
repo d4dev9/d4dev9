@@ -58,7 +58,6 @@
   <img src="./assets/skills/dotnet.svg" width="52" alt=".NET" title=".NET">
   <img src="./assets/skills/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
   <img src="./assets/skills/mysql.svg" width="52" alt="MySQL" title="MySQL">
-  <img src="./assets/skills/sqlserver.svg" width="52" alt="SQL Server" title="SQL Server">
   <img src="./assets/skills/prisma.svg" width="52" alt="Prisma" title="Prisma">
 </p>
 
