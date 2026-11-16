@@ -7,6 +7,11 @@
 <img src="https://imgproxy.attic.sh/insecure/f:png/h:128/w:128/plain/https://attic.sh/ghpw1t2qgcjwfvddsdtrsg5mc3kw" width="24" height="24" alt="Coffee" align="absmiddle"> **FullStack Software Developer & AI-Driven Engineering**
 <!--<a href="https://u8views.com/github/d4dev9"><img src="https://u8views.com/api/v1/github/profiles/97483748/views/day-week-month-total-count.svg"></a>-->
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=d4dev9&style=flat" alt="Profile views">
+  <img src="https://img.shields.io/badge/Repositories-$COUNT-007ec6?style=flat" alt="Repositories">
+</p>
+
 <div align="center">
 
 <a href="https://ko-fi.com/dxvid9" target="_blank">
@@ -16,11 +21,12 @@
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=d4dev9" alt="Profile views">
+<!--<img src="https://komarev.com/ghpvc/?username=d4dev9" alt="Profile views">-->
 
-![Repos](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d4dev9/d4dev9/main/badge.json&style=for-the-badge)
+<!--![Repos](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d4dev9/d4dev9/main/badge.json&style=for-the-badge)-->
 
 </div>
+
 
 ###
 
