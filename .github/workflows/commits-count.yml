@@ -27,3 +27,4 @@ jobs:
         with:
           commit_message: "update total commits badge"
           file_pattern: assets/badges/commits.json
+ 
