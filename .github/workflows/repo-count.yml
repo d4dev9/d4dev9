@@ -26,4 +26,3 @@ jobs:
         with:
           commit_message: "update repositories count badge"
           file_pattern: assets/badges/badge.json
- 
