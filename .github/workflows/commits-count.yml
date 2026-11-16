@@ -16,11 +16,10 @@ jobs:
 
       - name: Contar commits totales
         env:
-      # Usamos el token con permisos para leer repositorios privados y de usuario
           GH_TOKEN: ${{ secrets.REPO_COUNT_TOKEN }}
         run: |
-          # Consulta los commits de tu usuario en todos tus repositorios
-          COMMITS=$(gh api --paginate "/search/commits?q=author:d4dev9" --jq '.total_count')
+          # Extraemos el total_count asegurándonos de tomar solo la primera línea o sumar correctamente
+          COMMITS=$(gh api "/search/commits?q=author:d4dev9" --jq '.total_count')
           mkdir -p assets/badges
           echo "{\"schemaVersion\":1,\"label\":\"Total Commits\",\"message\":\"$COMMITS\",\"color\":\"2ea44f\",\"style\":\"flat\"}" > assets/badges/commits.json
 
