@@ -19,10 +19,11 @@ jobs:
           GH_TOKEN: ${{ secrets.REPO_COUNT_TOKEN }}
         run: |
           COUNT=$(gh api --paginate "/user/repos?visibility=all&affiliation=owner&per_page=100" --jq '.[].id' | wc -l)
-          echo "{\"schemaVersion\":1,\"label\":\"repos\",\"message\":\"$COUNT\",\"color\":\"black\"}" > badge.json
+          mkdir -p assets/badges
+          
+          echo "{\"schemaVersion\":1,\"label\":\"Repositories\",\"message\":\"$COUNT\",\"color\":\"007ec6\",\"style\":\"flat\"}" > assets/badges/badge.json
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "update repo count badge"
-          file_pattern: badge.json
- 
+          commit_message: "update repositories count badge"
+          file_pattern: assets/badges/badge.json
