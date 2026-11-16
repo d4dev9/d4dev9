@@ -10,6 +10,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=d4dev9&style=flat" alt="Profile views">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d4dev9/d4dev9/main/assets/badges/badge.json" alt="Repositories">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d4dev9/d4dev9/main/assets/badges/commits.json" alt="Total Commits">
 </p>
 
 <div align="center">
